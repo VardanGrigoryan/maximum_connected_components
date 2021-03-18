@@ -45,7 +45,7 @@ class DSU {
         if(parent_x == parent_y) {
             return true;
         }
-        return true;
+        return false;
     }
 };
 
